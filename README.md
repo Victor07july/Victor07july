@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victor07july&label=Profile%20views&color=0e75b6&style=flat" alt="victor07july" /> </p>
 
-- 🌱 I’m currently learning **Golang, Kubernetes, Hyperledger Fabric**
+- 🌱 I’m currently learning **Golang, Kubernetes & Hyperledger Fabric**
 
-- 📫 How to reach me **victordaniel@unigranrio.br**
+- 📫 How to reach me: **victordaniel@unigranrio.br**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12qMR7bA3fAinRVSwdZ8dBCgU6YRaD5TN/view?usp=sharing](https://drive.google.com/file/d/12qMR7bA3fAinRVSwdZ8dBCgU6YRaD5TN/view?usp=sharing)
+- 📄 Know about my experiences [Resumee](https://drive.google.com/file/d/12qMR7bA3fAinRVSwdZ8dBCgU6YRaD5TN/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
