@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **victordaniel@unigranrio.br**
 
-- 📄 Know about my experiences [Resumee](https://drive.google.com/file/d/12qMR7bA3fAinRVSwdZ8dBCgU6YRaD5TN/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12qMR7bA3fAinRVSwdZ8dBCgU6YRaD5TN/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
