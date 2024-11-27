@@ -1,6 +1,6 @@
 ![MasterHead](banner.gif)
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Victor Daniel</h1> 
-<h3 align="center">A passionate backend developer from Brazil. Currently studying Information Systems at UNIGRANRIO.</h3>
+<h3 align="center">A passionate backend developer from Brazil.</h3>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
