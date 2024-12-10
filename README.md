@@ -1,6 +1,6 @@
 ![MasterHead](banner.gif)
 <h3 align="center">A passionate backend developer from Brazil.</h3>
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victor07july&label=Profile%20views&color=0e75b6&style=flat" alt="victor07july" /> </p>
 
@@ -26,6 +26,7 @@
 
 
 <div align="center">
+  <a href="https://github.com/Victor07july">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=victor07july&show_icons=true&locale=en&layout=compact" alt="victor07july" />
     <!--<img height="180" src="https://github-readme-stats.vercel.app/api?username=victor07july&show_icons=true&locale=en" alt="victor07july" /> --> 
 
