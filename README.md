@@ -28,5 +28,4 @@
 <div align="center">
   <a href="https://github.com/Victor07july">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=victor07july&show_icons=true&locale=en&layout=compact" alt="victor07july" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=victor07july&show_icons=true&locale=en" alt="victor07july" />
 </div>
