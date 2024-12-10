@@ -1,16 +1,8 @@
 ![MasterHead](banner.gif)
-<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Victor Daniel</h1> 
 <h3 align="center">A passionate backend developer from Brazil.</h3>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victor07july&label=Profile%20views&color=0e75b6&style=flat" alt="victor07july" /> </p>
-
-- 🌱 I’m currently learning **Golang, Kubernetes & Hyperledger Fabric**
-
-- 📫 How to reach me: **victordaniel@unigranrio.br**
-
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/12qMR7bA3fAinRVSwdZ8dBCgU6YRaD5TN/view?usp=sharing)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
